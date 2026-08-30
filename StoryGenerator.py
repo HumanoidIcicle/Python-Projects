@@ -144,6 +144,6 @@ while True:
                 cappron1, pron2, pron3, cappron1, crush, small, small, crush, cappron1, cappron1, small, cappron1, pron2, crush,
                 small, small, crush, cappron1, small, small))
 
-#            break
+            break
 
 
