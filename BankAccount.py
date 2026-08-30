@@ -1,5 +1,4 @@
-
-#Method one
+#Method one with If-else statements
 def main():  
     F_NAME = ''
     L_NAME = ''
